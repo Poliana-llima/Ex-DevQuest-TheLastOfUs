@@ -1,4 +1,4 @@
-# Exercício Site One Piece
+# Exercício The Last Of Us
 
 <h2>Reprodução de aula para treinar HTML, CSS e JS</h2>
 
